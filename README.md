@@ -11,10 +11,10 @@
 <h2>Current + future projects inside this repo...</h2>
 <ul>
   <li>A CLI To-Do List App</li>
-  <li><b>Coming Soon! : </b>A CLI Blackjack App</li>
+  <li>A CLI Blackjack App</li>
 </ul>
 <h2>Project Deep Dives!</h2>
 <h3>CLI To-Do List App</h3>
 <p>Project Deep Dive currently in W.I.P!</p>
-<h3>Coming Soon! : A CLI Blackjack App</h3>
+<h3>CLI Blackjack App</h3>
 <p>Project Deep Dive currently in W.I.P!</p>
