@@ -12,9 +12,12 @@
 <ul>
   <li>A CLI To-Do List App</li>
   <li>A CLI Blackjack App</li>
+  <li><b>Coming Soon!</b> CLI Dungeon Crawler Game</li>
 </ul>
 <h2>Project Deep Dives!</h2>
 <h3>CLI To-Do List App</h3>
 <p>Project Deep Dive currently in W.I.P!</p>
 <h3>CLI Blackjack App</h3>
+<p>Project Deep Dive currently in W.I.P!</p>
+<h3>Coming Soon! CLI Dungeon Crawler Game</h3>
 <p>Project Deep Dive currently in W.I.P!</p>
