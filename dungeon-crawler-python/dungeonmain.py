@@ -9,7 +9,7 @@ player_retry_check = None
 fb_progress = ""
 print("Welcome to the Dungeon!")
 sleep(1.5)
-current_pos = 2
+current_pos = 8
 while game_running == True:
     if current_pos == 1:
         dr.room1()
