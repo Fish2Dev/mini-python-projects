@@ -13,6 +13,7 @@
   <li>A CLI To-Do List App</li>
   <li>A CLI Blackjack App</li>
   <li>A CLI Dungeon Crawler Game</li>
+  <li><b>Coming Soon!</b> A CLI Fishing Tycoon Game</li>
 </ul>
 <h2>Project Deep Dives!</h2>
 <h3>CLI To-Do List App</h3>
@@ -20,4 +21,6 @@
 <h3>CLI Blackjack App</h3>
 <p>Project Deep Dive currently in W.I.P!</p>
 <h3>A CLI Dungeon Crawler Game</h3>
+<p>Project Deep Dive currently in W.I.P!</p>
+<h3><b>Coming Soon!</b> A CLI Fishing Tycoon Game</h3>
 <p>Project Deep Dive currently in W.I.P!</p>
