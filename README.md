@@ -6,7 +6,7 @@ This repository is a collection of mini projects in Python that I have personall
 ## So, What Can You Do In This Repo?
 - Give feedback on projects or contribute to this repo! (See [Feedback & Contribution](#-feedback--contribution) section).
 - Use these projects as ideas and build them yourself! (See [Project Building Guide](BUILDGUIDES.md) section).
-- Use these projects as inspiration to create your version or make the existing version better! (See [Project Building Guides](BUILDGUIDES.md) section).
+- Use these projects as inspiration to create your version or make the existing version better!
 - It's your choice with what you want to do with them!
 
 ## ⬇️ Installation Guide
