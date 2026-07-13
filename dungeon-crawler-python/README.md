@@ -1,4 +1,4 @@
-# CLI To-Do List App: Project Overview
+# CLI Dungeon Crawler Game: Project Overview
 ## This README.MD is currently a writing in progress. Some information may be missed and may be added later. Give feedback as needed!
 
 **Quick Summary**: 
