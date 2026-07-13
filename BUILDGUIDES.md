@@ -6,7 +6,7 @@ These build guides are designed to take you through building these exact project
 - [CLI To-Do List App](#cli-to-do-list-app)
 - [CLI Blackjack Game](#cli-blackjack-game)
 - [CLI Dungeon Crawler Game](#cli-dungeon-crawler-game)
-- [**Coming Soon!** CLI Fishing Tycoon Game](#coming-soon-cli-fishing-tycoon-game)
+- [ CLI Fishing Tycoon Game](#cli-fishing-tycoon-game)
 
 ### CLI To-Do List App
 > ⚠️ This build guide is a work in progress!
@@ -72,5 +72,5 @@ Once you have the base project working perfectly, try adding these extra feature
 > ⚠️ This build guide is a work in progress!
 ### CLI Dungeon Crawler Game
 > ⚠️ This build guide is a work in progress!
-### Coming Soon! CLI Fishing Tycoon Game
+### CLI Fishing Tycoon Game
 > ⚠️ This build guide is a work in progress!
