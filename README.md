@@ -52,7 +52,7 @@ python dungeonmain.py
 | **CLI To-Do List App** | A simple command-line task manager to track daily goals. |Python 3.x (single file architecture)| [Project Folder](./todo-list-python) \| [Overview](./todo-list-python/README.md) \| [Build Guide](BUILDGUIDES.md#cli-to-do-list-app) |
 | **CLI Blackjack Game** | A text-based version of the classic casino card game. |Python 3.x (single file architecture)| [Project Folder](./blackjack-python) \| [Overview](./blackjack-python/README.md) \| [Build Guide](BUILDGUIDES.md#cli-blackjack-game) |
 | **CLI Dungeon Crawler Game** | A turn-based text adventure game with combat logic. |Python 3.x (multi file architecture)| [Project Folder](./dungeon-crawler-python) \| [Overview](./dungeon-crawler-python/README.md) \| [Build Guide](BUILDGUIDES.md#cli-dungeon-crawler-game) |
-| **Coming Soon: CLI Fishing Tycoon Game** | A simple tycoon game with fishing and cooking mechanics. |Python 3.x (multi file architecture)| [Project Folder]() \| [Overview]() \| [Build Guide]() |
+| **CLI Fishing Tycoon Game** | A simple tycoon game with fishing and cooking mechanics. |Python 3.x (multi file architecture)| [Project Folder](./fishing-tycoon-python) \| [Overview](./fishing-tycoon-python/README.md) \| [Build Guide](BUILDGUIDES.md#cli-fishing-tycoon-game) |
 
 ## 🤝 Feedback & Contribution
 Since I am still learning, Feedback is incredibly valuable to me! Whether you're a complete beginner or an experienced developer, here's how you can provide feedback:
