@@ -74,7 +74,7 @@ Once you have the base project working perfectly, try adding these extra feature
 > ⚠️ This build guide is a work in progress!
 ### CLI Fishing Tycoon Game
 > ⚠️ This build guide is a work in progress!
-### Coming Soon! Simple AI Studying App: Ocean's Study Buddies
+### Coming Soon! Simple AI Studying App: Ocean Study Buddies
 > ⚠️ This build guide is a work in progress!
 ### Coming Soon! Dungeon Crawler: The Roguelike Game
 > ⚠️ This build guide is a work in progress!
