@@ -53,6 +53,8 @@ python dungeonmain.py
 | **CLI Blackjack Game** | A text-based version of the classic casino card game. |Python 3.x (single file architecture)| [Project Folder](./blackjack-python) \| [Overview](./blackjack-python/README.md) \| [Build Guide](BUILDGUIDES.md#cli-blackjack-game) |
 | **CLI Dungeon Crawler Game** | A turn-based text adventure game with combat logic. |Python 3.x (multi file architecture)| [Project Folder](./dungeon-crawler-python) \| [Overview](./dungeon-crawler-python/README.md) \| [Build Guide](BUILDGUIDES.md#cli-dungeon-crawler-game) |
 | **CLI Fishing Tycoon Game** | A simple tycoon game with fishing and cooking mechanics. |Python 3.x (multi file architecture)| [Project Folder](./fishing-tycoon-python) \| [Overview](./fishing-tycoon-python/README.md) \| [Build Guide](BUILDGUIDES.md#cli-fishing-tycoon-game) |
+| **Coming Soon! Simple AI Studying App: Ocean Study Buddies** | Description W.I.P. |Tech Stack W.I.P.| [Project Folder) \| [Overview]() \| [Build Guide]() |
+| **Coming Soon! Dungeon Crawler: The Roguelike Game** | Description W.I.P. |Tech Stack W.I.P| [Project Folder]() \| [Overview]() \| [Build Guide]() |
 
 ## 🤝 Feedback & Contribution
 Since I am still learning, Feedback is incredibly valuable to me! Whether you're a complete beginner or an experienced developer, here's how you can provide feedback:
