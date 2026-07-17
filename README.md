@@ -30,23 +30,8 @@ Move into the repo's root folder with this command:
 ```bash
 cd mini-python-projects
 ```
-### How To Run The Projects
-Every project is self-contained in it's own folder. To run a specific project.
-1. Open your terminal and navigate into that project's folder
-2. Run the project's main Python file
-
-For single file projects, run the only file inside that folder:
-```bash
-cd blackjack-python
-python blackjack.py
-```
-For multi file projects, run the file that has "main" in the name:
-```bash
-cd dungeon-crawler-python
-python dungeonmain.py
-```
 ## 📁 All Projects (including future ones!)
-
+### Please reference to project overviews for instructions on installing and running projects.
 | Project Name | Description |Tech Used| Links |
 | :--- | :--- | :--- | :--- |
 | **CLI To-Do List App** | A simple command-line task manager to track daily goals. |Python 3.x (single file architecture)| [Project Folder](./todo-list-python) \| [Overview](./todo-list-python/README.md) \| [Build Guide](BUILDGUIDES.md#cli-to-do-list-app) |
