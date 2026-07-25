@@ -16,17 +16,36 @@ Make sure you have Python 3 installed on your machine. To check if you have Pyth
 ```bash
 python --version
 ```
-If you have python, you should get something like this!
+If you have Python, you should get something like this!
 ```bash
 Python 3.14.0
 ```
 *If you get an error, that means that you do not have Python installed on your machine! Head over and install Python [here](https://www.python.org)!*
 *Make sure when installing Python you check the "Add Python to PATH" box.*
 #### 👾 Git
-> WIP
+Make sure you have Git installed on your machine. To check if you have Git, run this command:
+```bash
+git --version
+```
+If you have Git, you should get something like this!
+```bash
+git version 2.52.0.windows.1
+```
+or
+```bash
+git version 2.52.0
+```
+*If you get an error, that means that you do not have Git installed on your machine! Head over and install Git [here](https://git-scm.com)!*
 #### 📦 PIP
-> WIP
-
+PIP should come pre-installed with Python, but to double-check, run this command:
+```bash
+pip --version
+```
+If you have PIP, you should get something like this!
+```bash
+pip 25.2 from (PATH NAME GOES HERE) (python 3.14)
+```
+*If you get an error, that means that PIP did not come pre-installed with Python! Head over and install PIP [here](https://pip.pypa.io/en/stable/installation/)!*
 
 ### 2. Clone The Repo
 Run this command in the terminal to download all the projects at once:
