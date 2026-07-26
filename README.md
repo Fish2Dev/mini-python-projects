@@ -15,7 +15,6 @@ This repository is a collection of mini projects in Python that I have personall
 - If you'd like to take a look at the license ➜ [MIT License](LICENSE.md)
 - If you'd like to build these projects yourself ➜ [Build Guides](BUILDGUIDES.md)
 - If you'd like to learn how to contribute ➜ [Contribution Guide](CONTRIBUTING.md)
-- If you'd like to see a list of all changes ➜ [Changelog](CHANGELOG.md)
 ## ⬇️ Installation Guide
 ### 1. Prerequites
 #### 🐍 Python
