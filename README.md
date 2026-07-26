@@ -4,11 +4,18 @@
 ## About This Repository
 This repository is a collection of mini projects in Python that I have personally built over the past few months as a beginner. If you're a beginner who is also learning Python, you can come to this repo anytime and grab some project ideas for yourself!
 ## So, What Can You Do In This Repo?
-- Give feedback on projects or contribute to this repo! (See [Feedback & Contribution](CONTRIBUTING.md) file).
-- Use these projects as ideas and build them yourself! (See [Build Guides](BUILDGUIDES.md) file).
+- Give feedback on projects or contribute to this repo!
+- Use these projects as ideas and build them yourself!
 - Use these projects as inspiration to create your version or make the existing version better!
 - It's your choice with what you want to do with them!
 
+## 🧭 Navigation
+- If you'd like to learn how to get started with these projects ➜ [Installation Guide (LINK NOT WORKING)](#-installation-guide)
+- If you'd like to see a list of all the projects in this repo ➜ [All Projects (LINK NOT WORKING)](#-all-projects-(including-future-ones)!)
+- If you'd like to take a look at the liscence ➜ [MIT Liscence](LISCENCE.md)
+- If you'd like to build these projects yourself ➜ [Build Guides](BUILDGUIDES.md)
+- If you'd like to learn how to contribute ➜ [Contribution Guide](CONTRIBUTING.md)
+- If you'd like to see a list of all changes ➜ [Changelog](CHANGELOG.md)
 ## ⬇️ Installation Guide
 ### 1. Prerequites
 #### 🐍 Python
