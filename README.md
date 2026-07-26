@@ -66,4 +66,4 @@ cd mini-python-projects
 | **CLI Dungeon Crawler Game** | A turn-based text adventure game with combat logic. |Python 3.x (multi file architecture)| [Project Folder](./dungeon-crawler-python) \| [Overview](./dungeon-crawler-python/README.md) \| [Build Guide](BUILDGUIDES.md#cli-dungeon-crawler-game) |
 | **CLI Fishing Tycoon Game** | A simple tycoon game with fishing and cooking mechanics. |Python 3.x (multi file architecture)| [Project Folder](./fishing-tycoon-python) \| [Overview](./fishing-tycoon-python/README.md) \| [Build Guide](BUILDGUIDES.md#cli-fishing-tycoon-game) |
 | **Coming Soon! Simple AI Studying App: Ocean Study Buddies** | Description W.I.P. |Tech Stack W.I.P.| [Project Folder]() \| [Overview]() \| [Build Guide]() |
-| **Coming Soon! Dungeon Crawler: The Roguelike Game** | Description W.I.P. |Tech Stack W.I.P| [Project Folder]() \| [Overview]() \| [Build Guide]() |
+| **Coming Soon! Dungeon Shooter: The Roguelike Game** | Description W.I.P. |Tech Stack W.I.P| [Project Folder]() \| [Overview]() \| [Build Guide]() |
