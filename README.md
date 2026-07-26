@@ -10,8 +10,8 @@ This repository is a collection of mini projects in Python that I have personall
 - It's your choice with what you want to do with them!
 
 ## 🧭 Navigation
-- If you'd like to learn how to get started with these projects ➜ [Installation Guide (LINK NOT WORKING)](#installation-guide)
-- If you'd like to see a list of all the projects in this repo ➜ [All Projects (LINK NOT WORKING)](#-all-projects-(including-future-ones)!)
+- If you'd like to learn how to get started with these projects ➜ Look in this README and find the section that says, "⬇️ Installation Guide"
+- If you'd like to see a list of all the projects in this repo ➜  Look in this README and find the section that says, "📁 All Projects (including future ones!)"
 - If you'd like to take a look at the license ➜ [MIT License](LICENSE.md)
 - If you'd like to build these projects yourself ➜ [Build Guides](BUILDGUIDES.md)
 - If you'd like to learn how to contribute ➜ [Contribution Guide](CONTRIBUTING.md)
