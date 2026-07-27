@@ -19,7 +19,7 @@ First of all, thank you for wanting to contribute. I really appreciate your kind
 - **Verify Bug Fixes & Tweaks**:
 ### 🛑 What Not To Do
 - **Add Massive New Features**:
-- **Submit Level Up Challenges**:
+- **Submit Bonus Challenges**:
 - **Break Existing Code And Submit It**:
 - **Change The File Structure**:
 - **Overcomplicate Code**:
