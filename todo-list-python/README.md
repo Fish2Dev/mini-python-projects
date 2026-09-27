@@ -39,7 +39,7 @@ cd ..
 * **Language:** Python 3.x
 * **Architecture:** Single File Architecture
 * **Data Structures:** In State Memory Tracking (no JSON), Lists.
-* **Standard Modules:** sys (for qutting).
+* **Standard Modules:** sys (for quiting).
 * **External Libraries:** None
 
 ## 📸 Screenshots / Demo
