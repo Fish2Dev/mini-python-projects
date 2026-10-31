@@ -15,6 +15,8 @@ Welcome to the first version. This repository was built before this changelog ap
 ### Added
 - CHANGELOG.md, the file that keeps track of all changes.
 - Updated "All Projects" section of main README with 4 new upcoming projects.
+### Changed
+- Updated navigation section of main README to link to changelog.
 ### Before The Changelog
 - 4 projects with incompleted project overviews.
 - BUILDGUIDES.md, an incompleted file that hosts guides to build these projects.
