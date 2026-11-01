@@ -8,7 +8,7 @@ This changelog follows these guides: [Keep a Changelog](https://keepachangelog.c
 Welcome to the first version. This repository was built before this changelog appeared and so all current features inside this repository before the changelog will be in the **Before The Changelog** section.
 
 ### Planned
-- Complete Todo List Project Overview
+- Complete Blackjack Project Overview
 - Complete Todo List Project Build Guide
 - Start working on the Poker Game Project.
 
