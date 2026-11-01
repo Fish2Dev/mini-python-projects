@@ -3,13 +3,17 @@ All notable changes to this project will be documented in this file.
 
 This changelog follows these guides: [Keep a Changelog](https://keepachangelog.com/en/2.0.0/) and [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+### Added
+- Added Blackjack Game project overview.
+
 ## [1.0.0] - 2026-10-31
 
 Welcome to the first version. This repository was built before this changelog appeared and so all current features inside this repository before the changelog will be in the **Before The Changelog** section.
 
 ### Planned
-- Complete Blackjack Project Overview
-- Complete Todo List Project Build Guide
+- Complete Blackjack Project Overview.
+- Complete Todo List Project Build Guide.
 - Start working on the Poker Game Project.
 
 ### Added
