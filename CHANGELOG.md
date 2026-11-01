@@ -10,11 +10,11 @@ Welcome to the first version. This repository was built before this changelog ap
 ### Planned
 - Complete Todo List Project Overview
 - Complete Todo List Project Build Guide
-- Start working on the Potion Lab Game Project.
+- Start working on the Poker Game Project.
 
 ### Added
 - CHANGELOG.md, the file that keeps track of all changes.
-- Updated "All Projects" section of main README with 4 new upcoming projects.
+- Updated "All Projects" section of main README with 3 new upcoming projects.
 ### Changed
 - Updated navigation section of main README to link to changelog.
 ### Before The Changelog
